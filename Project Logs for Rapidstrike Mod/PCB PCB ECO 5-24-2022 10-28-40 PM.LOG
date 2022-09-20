@@ -1,0 +1,26 @@
+Change Component Description : Designator=C1 Old Description=CAP, 10uF, 10%, 10V, X7R, 0805 New Description=CAP, 10uF, 10%, 25V, X7R, 0805
+Change Component Description : Designator=C2 Old Description=CAP, 10uF, 10%, 10V, X7R, 0805 New Description=CAP, 10uF, 10%, 25V, X7R, 0805
+Change component parameters: Designator = "C1" ("C1"); Footprint = "chip_0805"; UniqueID = "\FUCQUOBS" ("\FUCQUOBS")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "GRM21BR71A106KA73L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP-00131"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "chip_0805"; UniqueID = "\LOUHYCSE" ("\LOUHYCSE")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "GRM21BR71A106KA73L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP-00131"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found chip_0805
+Add Component: Footprint Not Found chip_0805
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Class Member: Failed to add class member : Component R11 10k
+Add Class Member: Failed to add class member : Component R12 10k

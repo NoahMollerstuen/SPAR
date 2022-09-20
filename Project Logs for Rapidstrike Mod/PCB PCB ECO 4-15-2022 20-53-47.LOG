@@ -1,0 +1,37 @@
+Added Component: Designator=XP1(277-17514-ND)
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1753905"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(277-17514-ND)
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1753905"; VariantName = "[No Variations]"
+Added Component: Designator=XP3(277-17514-ND)
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1753905"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=GND Pin=XP1-1
+Added Pin To Net: NetName=GND Pin=XP1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=XP2-1
+Added Pin To Net: NetName=NetQ1_2 Pin=XP2-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=XP3-1
+Added Pin To Net: NetName=NetQ2_2 Pin=XP3-1
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=VCC Pin=U1-30
+Added Pin To Net: NetName=VCC Pin=XP1-0
+Added Pin To Net: NetName=VCC Pin=XP1-0
+Added Pin To Net: NetName=VCC Pin=XP2-0
+Added Pin To Net: NetName=VCC Pin=XP2-0
+Added Pin To Net: NetName=VCC Pin=XP3-0
+Added Pin To Net: NetName=VCC Pin=XP3-0
+Added Net: Name=VCC
+Added Member To Class: ClassName=Schematic Member=Component XP1 Screwless terminal 2 pin 32A
+Added Member To Class: ClassName=Schematic Member=Component XP2 Screwless terminal 2 pin 32A
+Added Member To Class: ClassName=Schematic Member=Component XP3 Screwless terminal 2 pin 32A
+Added Room: Name=Schematic

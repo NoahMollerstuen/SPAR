@@ -1,0 +1,13 @@
+Added Component: Designator=J1(J-6)
+Added Component: Designator=J2(J-6)
+Added Component: Designator=J3(J-6)
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=NetD1_1 Pin=J2-2
+Added Pin To Net: NetName=VCC Pin=J3-1
+Added Pin To Net: NetName=NetD2_1 Pin=J3-2
+Added Member To Class: ClassName=Schematic Member=Component J1 Battery
+Added Member To Class: ClassName=Schematic Member=Component J2 Motor
+Added Member To Class: ClassName=Schematic Member=Component J3 Solenoid
+Added Room: Name=Schematic

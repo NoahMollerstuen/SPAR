@@ -1,0 +1,166 @@
+Change Component Comment : Designator=U1 Old Comment=ARDUINO_NANO New Comment=U-1
+Change component parameters: Designator = "U1" ("U1"); Footprint = "ARDUINO_NANO"; UniqueID = "\STONSCHA" ("\STONSCHA")
+Added Component: Designator=C1(can_2_0)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "UVR1C100MDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP-00184"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Al"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(can_2_0)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "UVR1C100MDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP-00184"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Al"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(J-3)
+Added Component: Designator=D4(J-3)
+Added Component: Designator=DS1(J-5)
+Added Component: Designator=J4(J-4)
+Added Component: Designator=J5(J-3)
+Added Component: Designator=LS1(J-3)
+Added Component: Designator=Q3(J-3)
+Added Component: Designator=Q4(J-3)
+Added Component: Designator=R1(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00605"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R2(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00607"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00605"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R4(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00607"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R5(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00607"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R6(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00624"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R7(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00609"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R8(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00665"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R9(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00665"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=S1(J-5)
+Added Component: Designator=S2(J-3)
+Added Component: Designator=S3(J-3)
+Added Component: Designator=U2(FP-DCT0008A-MFG)
+Added Component: Designator=U3(FP-318H-MFG)
+Added Component: Designator=VR1(J-3)
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=DS1-1
+Added Pin To Net: NetName=+5 Pin=DS1-2
+Added Pin To Net: NetName=NetDS1_3 Pin=DS1-3
+Added Pin To Net: NetName=NetDS1_4 Pin=DS1-4
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetC2_1 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=+5 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=+5 Pin=R8-1
+Added Pin To Net: NetName=NetD3_1 Pin=R8-2
+Added Pin To Net: NetName=+5 Pin=R9-1
+Added Pin To Net: NetName=NetD4_1 Pin=R9-2
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Pin To Net: NetName=+5 Pin=S1-2
+Added Pin To Net: NetName=NetS1_3 Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=NetS2_1 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=NetS3_1 Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Added Pin To Net: NetName=NetR7_2 Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-2
+Added Member To Class: ClassName=Schematic Member=Component C1 10uF
+Added Member To Class: ClassName=Schematic Member=Component C2 10uF
+Added Member To Class: ClassName=Schematic Member=Component D3 LED1
+Added Member To Class: ClassName=Schematic Member=Component D4 LED2
+Added Member To Class: ClassName=Schematic Member=Component DS1 OLED
+Added Member To Class: ClassName=Schematic Member=Component J4 RPi Zero W
+Added Member To Class: ClassName=Schematic Member=Component J5 RPi Zero W
+Added Member To Class: ClassName=Schematic Member=Component LS1 Buzzer
+Added Member To Class: ClassName=Schematic Member=Component Q3 Reflect1
+Added Member To Class: ClassName=Schematic Member=Component Q4 Reflect2
+Added Member To Class: ClassName=Schematic Member=Component R1 1k
+Added Member To Class: ClassName=Schematic Member=Component R2 10k
+Added Member To Class: ClassName=Schematic Member=Component R3 1k
+Added Member To Class: ClassName=Schematic Member=Component R4 10k
+Added Member To Class: ClassName=Schematic Member=Component R5 10k
+Added Member To Class: ClassName=Schematic Member=Component R6 47k
+Added Member To Class: ClassName=Schematic Member=Component R7 100k
+Added Member To Class: ClassName=Schematic Member=Component R8 220
+Added Member To Class: ClassName=Schematic Member=Component R9 220
+Added Member To Class: ClassName=Schematic Member=Component S1 Joystick
+Added Member To Class: ClassName=Schematic Member=Component S2 1A Microswitch
+Added Member To Class: ClassName=Schematic Member=Component S3 1A Microswitch
+Add Class Member: Failed to add class member : Component U2 TCA9406DCTR
+Add Class Member: Failed to add class member : Component U3 NCP1117ST50T3G
+Added Member To Class: ClassName=Schematic Member=Component VR1 Pot
+Added Room: Name=Schematic

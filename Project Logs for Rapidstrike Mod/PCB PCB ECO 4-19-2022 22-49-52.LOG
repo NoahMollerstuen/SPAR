@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Component: Designator=J?(J-5)
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+5 Pin=U2-7
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=U2-3
+Added Pin To Net: NetName=NetJ?_1 Pin=U2-6
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=U2-4
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=U2-5
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=U2-8
+Added Net: Name=NetU1_1
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U2-1
+Added Net: Name=NetU1_2
+Added Member To Class: ClassName=Schematic Member=Component J? J-5
+Added Room: Name=Schematic

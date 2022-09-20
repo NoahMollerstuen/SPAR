@@ -1,0 +1,57 @@
+Change Component Comment : Designator=J6 Old Comment=J-3 New Comment=Buzzer
+Change Component Comment : Designator=J5 Old Comment=J-3 New Comment=Fire
+Change Component Comment : Designator=J4 Old Comment=J-3 New Comment=Rev
+Change Component Comment : Designator=J8 Old Comment=J-5 New Comment=Joystick
+Change Component Comment : Designator=J7 Old Comment=J-5 New Comment=OLED
+Added Component: Designator=J9(J-3)
+Added Component: Designator=J10(J-3)
+Added Component: Designator=J11(J-3)
+Added Component: Designator=J12(J-3)
+Added Component: Designator=J13(J-3)
+Added Component: Designator=R7(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00609"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R8(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00665"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R9(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00665"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=GND Pin=J12-2
+Added Pin To Net: NetName=GND Pin=J13-2
+Added Pin To Net: NetName=+5 Pin=R7-1
+Added Pin To Net: NetName=+5 Pin=R8-1
+Added Pin To Net: NetName=+5 Pin=R9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=R7-2
+Added Pin To Net: NetName=NetJ9_1 Pin=U1-20
+Added Net: Name=NetJ9_1
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=U1-22
+Added Net: Name=NetJ10_1
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ11_1 Pin=U1-21
+Added Net: Name=NetJ11_1
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ12_1 Pin=R8-2
+Added Net: Name=NetJ12_1
+Added Pin To Net: NetName=NetJ13_1 Pin=J13-1
+Added Pin To Net: NetName=NetJ13_1 Pin=R9-2
+Added Net: Name=NetJ13_1
+Added Member To Class: ClassName=Schematic Member=Component J9 Pot
+Added Member To Class: ClassName=Schematic Member=Component J10 Reflect1
+Added Member To Class: ClassName=Schematic Member=Component J11 Reflect2
+Added Member To Class: ClassName=Schematic Member=Component J12 LED1
+Added Member To Class: ClassName=Schematic Member=Component J13 LED2
+Added Member To Class: ClassName=Schematic Member=Component R7 100k
+Added Member To Class: ClassName=Schematic Member=Component R8 220
+Added Member To Class: ClassName=Schematic Member=Component R9 220

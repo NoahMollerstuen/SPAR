@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=VCC Pin=J1-0
+Removed Pin From Net: NetName=VCC Pin=J1-0
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=VCC Pin=J2-0
+Removed Pin From Net: NetName=VCC Pin=J2-0
+Removed Pin From Net: NetName=VCC Pin=J3-0
+Removed Pin From Net: NetName=VCC Pin=J3-0
+Change Component DesignItemId : Designator=J1 Old DesignItemId=277-17514-ND New DesignItemId=J-1
+Change Component DesignItemId : Designator=J2 Old DesignItemId=277-17514-ND New DesignItemId=J-1
+Change Component DesignItemId : Designator=J3 Old DesignItemId=277-17514-ND New DesignItemId=J-1
+Change Component Footprint: Designator=J1 Old Footprint=277-17514-ND New Footprint=J-1
+Change Component Footprint: Designator=J2 Old Footprint=277-17514-ND New Footprint=J-1
+Change Component Footprint: Designator=J3 Old Footprint=277-17514-ND New Footprint=J-1
+Change Component Description : Designator=J1 Old Description=Input New Description=
+Change Component Description : Designator=J2 Old Description=MOTORS New Description=
+Change Component Description : Designator=J3 Old Description=Solenoid New Description=
+Added Component: Designator=D1(D-1)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "625-5KP60A-E3"; VariantName = "[No Variations]"
+Added Component: Designator=D2(D-1)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "625-5KP60A-E3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=VCC Pin=D2-2
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=J3-1
+Added Pin To Net: NetName=VCC Pin=J3-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=J2-2
+Added Pin To Net: NetName=NetD1_1 Pin=J2-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=J3-2
+Added Pin To Net: NetName=NetD2_1 Pin=J3-2
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-2
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=Schematic Member=Component D1 Diode Thru-Hole 0.5"
+Added Member To Class: ClassName=Schematic Member=Component D2 Diode Thru-Hole 0.5"
+Added Member To Class: ClassName=Schematic Member=Component J1 Screwless terminal 2 pin 32A
+Added Room: Name=Schematic

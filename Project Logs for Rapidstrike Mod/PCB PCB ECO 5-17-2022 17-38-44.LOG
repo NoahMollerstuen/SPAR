@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=NetC2_1 Pin=J5-2
+Added Member To Class: ClassName=Schematic Member=Component S2 1A Microswitch

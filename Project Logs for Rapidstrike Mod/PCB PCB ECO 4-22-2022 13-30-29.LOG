@@ -1,0 +1,6 @@
+Change Physical Footprint: Designator=D1 Old Footprint=D-1 New Footprint=D-1
+Change Physical Footprint: Designator=D2 Old Footprint=D-1 New Footprint=D-1
+Change Physical Footprint: Designator=J1 Old Footprint=J-6 New Footprint=J-6
+Change Physical Footprint: Designator=J2 Old Footprint=J-6 New Footprint=J-6
+Change Physical Footprint: Designator=J3 Old Footprint=J-6 New Footprint=J-6
+Change Physical Footprint: Designator=U1 Old Footprint=ARDUINO_NANO New Footprint=ARDUINO_NANO

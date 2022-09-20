@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=NetS2_1 Pin=S2-1
+Removed Pin From Net: NetName=NetS3_1 Pin=S3-1
+Removed Pin From Net: NetName=NetS2_1 Pin=U1-5
+Removed Pin From Net: NetName=NetS3_1 Pin=U1-7
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-10
+Removed Pin From Net: NetName=NetU1_2 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=NetJ4_1 Pin=U2-3
+Removed Pin From Net: NetName=NetJ4_3 Pin=U2-5
+Removed Pin From Net: NetName=NetJ4_1 Pin=U2-6
+Removed Pin From Net: NetName=+5 Pin=U2-7
+Removed Pin From Net: NetName=NetU1_1 Pin=U2-8
+Removed Member From Class: ClassName=Schematic Member=D4
+Removed Member From Class: ClassName=Schematic Member=Q4
+Change Component Footprint: Designator=U2 Old Footprint=FP-DCT0008A-MFG New Footprint=DCT0008A_L
+Change Component Comment : Designator=R9 Old Comment=220 New Comment=200k
+Change Component Comment : Designator=D3 Old Comment=LED1 New Comment=IR LED
+Change Component Comment : Designator=Q3 Old Comment=Reflect1 New Comment=Phototransistor
+Change Component Comment : Designator=U2 Old Comment=TCA9406DCTR New Comment=PCA9306DCTR
+Change Component Designator: OldDesignator=S2 NewDesignator=S3
+Change Component Designator: OldDesignator=S3 NewDesignator=S5
+Change Managed Component Library Link : Designator=U2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=13EE78DE-E537-4BAE-9787-FB119B0CD864 New ItemGUID=ED8CB0AB-E38B-49E6-B4EA-3AC7313D13C7 Old RevisionGUID=2B70B581-AAA9-4350-A8B1-F80BD33729B5 New RevisionGUID=9E573F1C-293E-4513-96C1-E2CF74FC1A82
+Change component parameters: Designator = "R9" ("R9"); Footprint = "chip_0805"; UniqueID = "\POCVLMXS" ("\POCVLMXS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RES-00378"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "200k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "FP-DCT0008A-MFG"; UniqueID = "\FGEPIHFL" ("\FGEPIHFL")
+Change component parameters (AddParameter): Name = "5V Tolerant I/O"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "# of I/Os"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Channel Width"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MO-187-DA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=PCA9306&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/litv/pdf/mpds049b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Configuration Registers"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SCPS113J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Enable Pin"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EXP Pin"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fSCLK(Max)(MHz)"; Value = "400"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Function"; Value = "Voltage Translator"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "I2C Address"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interrupt Output"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Low Power"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Master Side I2C Bus Capacitance Supported(pF)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Frequency(kHz)"; Value = "400"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Outputs"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "On-Chip Power-on-Reset"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Open Drain I/O Type"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Thin Small Outline Package 3 x 2.8 mm Body ,0.65 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DCT0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revC, Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "PCA9306DCTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Push-Pull I/O Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reset Input"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Simultaneously Active Channels"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Slave Side I2C Bus Capacitance Supported(pF)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubFamily"; Value = "I2C Special Function"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology Family"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "tpd max(ns)"; Value = "1.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vcc range(V)"; Value = "0 to 5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Max)(V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Min)(V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Nodes(V)"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S2(J-3)
+Added Component: Designator=S4(J-3)
+Added Pin To Net: NetName=NetS2_1 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=NetS3_1 Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-6
+Added Pin To Net: NetName=NetS2_1 Pin=U1-10
+Added Pin To Net: NetName=NetS3_1 Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetJ4_1 Pin=U2-2
+Added Pin To Net: NetName=NetJ4_3 Pin=U2-3
+Added Pin To Net: NetName=NetU1_2 Pin=U2-5
+Added Pin To Net: NetName=NetU1_1 Pin=U2-6
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U2-7
+Added Pin To Net: NetName=NetR9_2 Pin=U2-8
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetS4_1 Pin=S4-1
+Added Pin To Net: NetName=NetS4_1 Pin=U1-14
+Added Net: Name=NetS4_1
+Added Pin To Net: NetName=NetS5_1 Pin=S5-1
+Added Pin To Net: NetName=NetS5_1 Pin=U1-15
+Added Net: Name=NetS5_1
+Added Member To Class: ClassName=Schematic Member=Component S4 1A Microswitch
+Added Member To Class: ClassName=Schematic Member=Component S5 1A Microswitch
+Added Room: Name=Schematic

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=VCC Pin=J2-1
+Removed Pin From Net: NetName=NetD1_1 Pin=J2-2
+Removed Pin From Net: NetName=VCC Pin=J3-1
+Removed Pin From Net: NetName=NetD2_1 Pin=J3-2
+Change Component Comment : Designator=U1 Old Comment=U-1 New Comment=Arduino Nano Every
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=NetD1_1 Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=J2-2
+Added Pin To Net: NetName=NetD2_1 Pin=J3-1
+Added Pin To Net: NetName=VCC Pin=J3-2

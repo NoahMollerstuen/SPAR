@@ -1,0 +1,20 @@
+Added Component: Designator=TP1(th_30)
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thru-hole"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(th_30)
+Add component (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CONN-00007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions per level"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thru-hole"; VariantName = "[No Variations]"
+Added Component: Designator=U1(ARDUINO_NANO)
+Add component (AddParameter): Name = "Part Number"; Value = "UCTRL-00007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=TP1-1
+Added Pin To Net: NetName=VCC Pin=U1-30
+Added Net: Name=VCC
+Added Class: Name=Schematic
+Added Room: Name=Schematic

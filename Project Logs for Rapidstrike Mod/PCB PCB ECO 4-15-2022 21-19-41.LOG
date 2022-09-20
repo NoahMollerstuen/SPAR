@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=XP1 NewDesignator=J1
+Change Component Designator: OldDesignator=XP2 NewDesignator=J2
+Change Component Designator: OldDesignator=XP3 NewDesignator=J3
+Change Component Description : Designator=J1 Old Description=IN New Description=Input
+Added Component: Designator=R5(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00607"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R6(axial_0.3)
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00624"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-1
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetJ3_1
+Added Pin To Net: NetName=+5 Pin=U1-27
+Added Net: Name=+5
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR5_1 Pin=U1-19
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=Schematic Member=Component R5 10k
+Added Member To Class: ClassName=Schematic Member=Component R6 47k
+Added Room: Name=Schematic

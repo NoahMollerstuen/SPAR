@@ -1,0 +1,20 @@
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:J-6
+Change Footprint: Cannot match pads with new footprint in component :J2 Footprint:J-6
+Change Footprint: Cannot match pads with new footprint in component :J3 Footprint:J-6
+Change Component Comment : Designator=J1 Old Comment=Screwless terminal 2 pin 32A New Comment=Battery
+Change Component Comment : Designator=J2 Old Comment=Screwless terminal 2 pin 32A New Comment=Motor
+Change Component Comment : Designator=J3 Old Comment=Screwless terminal 2 pin 32A New Comment=Solenoid
+Change component parameters: Designator = "C1" ("C1"); Footprint = "can_2_0"; UniqueID = "\OMIECICT" ("\OMIECICT")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "UVR1C100MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CAP-00184"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "80-ESK106M016AC3KA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Al"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J1"); Footprint = "J-1"; UniqueID = "\KCAXZNJW" ("\KCAXZNJW")
+Change component parameters: Designator = "J2" ("J2"); Footprint = "J-1"; UniqueID = "\KQJHNTHE" ("\KQJHNTHE")
+Change component parameters: Designator = "J3" ("J3"); Footprint = "J-1"; UniqueID = "\VFEGEMAA" ("\VFEGEMAA")
+Added Room: Name=Schematic

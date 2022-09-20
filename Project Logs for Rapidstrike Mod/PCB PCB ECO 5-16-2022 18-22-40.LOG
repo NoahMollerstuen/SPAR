@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=NetC2_1 Pin=U3-2
+Removed Pin From Net: NetName=VCC Pin=U3-3
+Removed Pin From Net: NetName=NetC2_1 Pin=U3-4
+Change Component Footprint: Designator=U3 Old Footprint=FP-318H-MFG New Footprint=REPO-R-78E-0.5-3_V
+Change Component Comment : Designator=U3 Old Comment=NCP1117ST50T3G New Comment=R-78E5.0-0.5
+Change Managed Component Library Link : Designator=U3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CAB80007-3002-407D-8F59-BB02D59733C7 New ItemGUID=8B051E91-5704-4748-AF14-36F101A54880 Old RevisionGUID=10F7EE22-6B3A-468D-85C2-06D8B19F9571 New RevisionGUID=001A281F-C85D-4C37-90CB-CAC86D4AA832
+Change component parameters: Designator = "U3" ("U3"); Footprint = "FP-318H-MFG"; UniqueID = "\CBRVLDMG" ("\CBRVLDMG")
+Change component parameters (AddParameter): Name = "Current - Output (Max)"; Value = "500mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "01/2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Efficiency"; Value = "92%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Recom Power"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.recom-power.com/us/americas/home.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C~85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Body 11.6 x 8.5 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "SIP Module"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Version"; Value = "Rev. 0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VIN Max"; Value = "28V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VIN Min"; Value = "7V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VOUT"; Value = "5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetC2_1 Pin=U3-3

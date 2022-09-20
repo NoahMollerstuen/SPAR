@@ -1,0 +1,47 @@
+Change component parameters: Designator = "DS1" ("DS1"); Footprint = "J-5"; UniqueID = "\KBPEDLRK" ("\KBPEDLRK")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "938"; VariantName = "[No Variations]"
+Change component parameters: Designator = "S1" ("S1"); Footprint = "J-5"; UniqueID = "\NNNOIPTC" ("\NNNOIPTC")
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "474-COM-09426"; VariantName = "[No Variations]"
+Added Component: Designator=C3(can_2_0)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "UVR1C100MDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CAP-00184"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Al"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=J6(J-4)
+Added Component: Designator=U4(REPO-R-78E-0.5-3_V)
+Add component (AddParameter): Name = "Current - Output (Max)"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "01/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Efficiency"; Value = "92%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Recom Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.recom-power.com/us/americas/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C~85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Body 11.6 x 8.5 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SIP Module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Rev. 0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VIN Max"; Value = "28V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VIN Min"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOUT"; Value = "5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S5-1
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=VCC Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=J6-3
+Added Pin To Net: NetName=NetC3_1 Pin=U4-3
+Added Net: Name=NetC3_1
+Added Member To Class: ClassName=Schematic Member=Component C3 10uF
+Added Member To Class: ClassName=Schematic Member=Component J6 J-4
+Added Member To Class: ClassName=Schematic Member=Component U4 R-78E5.0-0.5

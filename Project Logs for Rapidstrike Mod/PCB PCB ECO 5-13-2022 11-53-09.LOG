@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-13
+Change Component Comment : Designator=DS1 Old Comment=OLED New Comment=I2C OLED
+Added Component: Designator=R?(chip_0805)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "KTR10EZPF2201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-00366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2.2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR1_2 Pin=U1-10
+Added Member To Class: ClassName=Schematic Member=Component R? 2.2k
