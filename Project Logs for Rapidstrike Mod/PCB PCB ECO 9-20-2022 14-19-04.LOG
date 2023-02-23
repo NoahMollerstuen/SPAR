@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VCC Pin=U1-30
+Change Component Footprint: Designator=R11 Old Footprint=chip_0805 New Footprint=chip_0805
+Change Component Footprint: Designator=R12 Old Footprint=chip_0805 New Footprint=chip_0805
+Added Component: Designator=D3(do-214ac)
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "450mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "MBRA340T3G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "DIO-00005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CDBA340-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D3-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=U1-30
+Added Net: Name=NetD3_1
+Added Member To Class: ClassName=Schematic Member=Component D3 MBRA340T3G

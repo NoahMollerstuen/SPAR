@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5 Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Member From Class: ClassName=Schematic Member=J4
+Removed Member From Class: ClassName=Schematic Member=R9
+Removed Member From Class: ClassName=Schematic Member=U2
+Change Component Footprint: Designator=C3 Old Footprint=chip_0805 New Footprint=chip_0805

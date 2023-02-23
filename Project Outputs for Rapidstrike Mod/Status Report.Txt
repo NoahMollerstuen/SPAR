@@ -1,6 +1,6 @@
 Output: Gerber X2 Files
 Type  : GerberX2
-From  : Project [Rapidstrike Mod.PrjPcb]
+From  : Variant [[No Variations]] of Project [Rapidstrike Mod.PrjPcb]
    Generated File[PCB_Copper_Signal_Top.gbr]
    Generated File[PCB_Copper_Signal_Bot.gbr]
    Generated File[PCB_Pads_Bot.gbr]
@@ -25,4 +25,4 @@ From  : Project [Rapidstrike Mod.PrjPcb]
 Files Generated   : 19
 Documents Printed : 0
 
-Finished Output Generation At 9:48:52 PM On 5/25/2022
+Finished Output Generation At 17:52:13 On 2/23/2023
